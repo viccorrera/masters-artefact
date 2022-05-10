@@ -1,0 +1,201 @@
+	UW Yr	Class	IS_CRED	Terr	Commission	Prof Comm	BROKER_PRESENT	Signed %	ULR/ALR
+119	21	B	0	Emerging Europe	0.365	0.38	0	0.32	0.55
+120	22	B	0	Emerging Europe	0.37	0.38	0	0.24	0.5
+184	21	B	0	Emerging Europe	0.33	0.0	1	0.34	0.4
+185	22	B	0	Emerging Europe	0.33	0.0	1	0.34	0.3
+215	21	B	0	Western Europe	0.36	0.0	0	0.225	0.45
+216	22	B	0	Western Europe	0.36	0.0	0	0.225	0.45
+265	21	B	0	Western Europe	0.42	0.0	1	0.06	0.45
+266	22	B	0	Western Europe	0.42	0.0	1	0.06	0.45
+391	21	C	1	Western Europe	0.4	0.1	1	0.15	0.5
+402	21	C	1	Pacific Region	0.42	0.1	1	0.15	0.5
+414	21	C	1	Emerging Europe	0.325	0.1	1	0.15	0.5
+419	21	C	1	Africa	0.3	0.0	0	0.36	0.5
+420	22	C	1	Africa	0.3	0.0	0	0.36	0.5
+512	21	C	1	Western Europe	0.4	0.1	1	0.15	0.5
+553	22	B	0	North America	0.45	0.45	0	0.1	0.35
+572	21	B	0	Emerging Europe	0.3	0.0	1	0.15	0.4
+573	22	B	0	Emerging Europe	0.3	0.0	1	0.15	0.4
+1028	21	C	1	Latin America	0.22	0.0	1	0.05	0.6
+1029	22	C	1	Latin America	0.22	0.0	1	0.05	0.6
+1201	21	C	1	Middle East & North Africa	0.4	0.0	0	0.17550000000000002	0.4
+1202	22	C	1	Middle East & North Africa	0.4	0.0	0	0.17550000000000002	0.4
+1235	21	B	0	Latin America	0.35	0.25	0	0.15	0.3
+1236	22	B	0	Latin America	0.35	0.25	0	0.15	0.3
+1278	21	C	1	Middle East & North Africa	0.25	0.0	0	0.3	0.6
+1279	22	C	1	Middle East & North Africa	0.25	0.0	0	0.25	0.6
+1328	21	C	1	Middle East & North Africa	0.28	0.0	0	0.4	0.62
+1329	22	C	1	Middle East & North Africa	0.31	0.0	0	0.4	0.59
+1341	21	C	1	Middle East & North Africa	0.25	0.0	0	0.5333	0.58
+1461	21	B	0	Latin America	0.4725	0.4	1	0.03	0.25
+1666	21	C	1	Latin America	0.35	0.35	0	0.15	0.5
+1667	22	C	1	Latin America	0.35	0.35	0	0.15	0.5
+1700	21	B	0	North America	0.45	0.4	1	0.025	0.35
+1724	21	B	0	North America	0.45	0.4	1	0.025	0.35
+1748	21	B	0	North America	0.45	0.4	1	0.025	0.35
+1752	21	B	0	North America	0.45	0.4	1	0.025	0.35
+1844	21	B	0	Western Europe	0.3	0.0	1	0.102	0.55
+1845	22	B	0	Western Europe	0.31	0.0	1	0.09300000000000001	0.5
+1896	21	C	1	Latin America	0.4	0.0	0	0.42	0.2
+1897	22	C	1	Latin America	0.4	0.0	0	0.42	0.2
+1969	21	B	0	Asia	0.37	0.0	1	0.052300000000000006	0.3
+2040	21	C	1	Middle East & North Africa	0.29	0.25	0	0.2	0.5
+2094	21	C	1	Emerging Europe	0.295	0.25	1	0.0385	0.6
+2095	22	C	1	Emerging Europe	0.32	0.0	1	0.0385	0.55
+2168	21	C	1	Middle East & North Africa	0.285	0.25	0	0.1925	0.6
+2169	22	C	1	Middle East & North Africa	0.285	0.25	0	0.1925	0.5
+2183	21	C	1	Middle East & North Africa	0.285	0.25	0	0.1925	0.6
+2184	22	C	1	Middle East & North Africa	0.285	0.25	0	0.1925	0.5
+2233	21	B	0	Emerging Europe	0.35	0.25	1	0.036000000000000004	0.5
+2234	22	B	0	Emerging Europe	0.35	0.25	1	0.036000000000000004	0.5
+2258	21	C	1	Emerging Europe	0.3	0.0	1	0.036000000000000004	0.6
+2259	22	C	1	Emerging Europe	0.3	0.0	1	0.036000000000000004	0.6
+2323	21	B	0	Latin America	0.41	0.4	0	0.25	0.25
+2416	21	B	0	Latin America	0.4	0.2	0	0.15	0.4
+2453	21	C	1	Middle East & North Africa	0.3	0.0	0	0.142857	0.5
+2454	22	C	1	Middle East & North Africa	0.4	0.0	0	0.142857	0.4
+2497	21	C	1	Middle East & North Africa	0.3	0.25	0	0.25	0.5
+2498	22	C	1	Middle East & North Africa	0.295	0.0	0	0.25	0.52
+2525	21	C	1	Middle East & North Africa	0.5	0.25	0	0.32	0.3
+2526	22	C	1	Middle East & North Africa	0.5	0.35	0	0.32	0.15
+2534	21	C	1	Middle East & North Africa	0.31	0.25	0	0.415	0.5
+2535	22	C	1	Middle East & North Africa	0.31	0.25	0	0.415	0.5
+2593	21	C	1	Emerging Europe	0.32	0.37	0	0.066	0.6
+2594	22	C	1	Emerging Europe	0.35	0.35	0	0.066	0.55
+2882	21	C	1	Africa	0.25	0.25	1	0.05	0.65
+2883	22	C	1	Africa	0.25	0.0	1	0.05	0.65
+3040	21	C	1	Western Europe	0.2725	0.0	1	0.0245	0.6
+3142	21	B	0	Latin America	0.44	0.45	1	0.05	0.35
+3289	21	C	1	Emerging Europe	0.32	0.25	1	0.0819	0.6
+3290	22	C	1	Emerging Europe	0.32	0.25	1	0.0683	0.6
+3552	21	B	0	Emerging Europe	0.3447	0.0	1	0.1775	0.55
+3553	22	B	0	Emerging Europe	0.3815	0.0	1	0.175	0.5
+3673	21	B	0	Asia	0.325	0.0	1	0.12112	0.35
+3689	21	C	1	Asia	0.36	0.0	1	0.07	0.35
+3757	21	C	1	Western Europe	0.3	0.25	1	0.021	0.5
+3758	22	C	1	Western Europe	0.31	0.25	1	0.021	0.45
+3777	21	C	1	Western Europe	0.35	0.0	1	0.027999999999999997	0.55
+3778	22	C	1	Western Europe	0.395	0.0	1	0.026600000000000002	0.5
+4207	21	B	0	North America	0.45	0.4	1	0.0588	0.2
+4208	22	B	0	North America	0.45	0.32	1	0.07	0.2
+4227	21	B	0	North America	0.45	0.4	1	0.0175	0.2
+4228	22	B	0	North America	0.45	0.32	1	0.07	0.25
+4293	21	B	0	Latin America	0.4	0.375	0	0.18	0.45
+4389	21	C	1	Latin America	0.355	0.325	0	0.18	0.6
+4406	21	B	0	Emerging Europe	0.3025	0.0	0	0.6	0.55
+4407	22	B	0	Emerging Europe	0.335	0.0	0	0.6	0.5
+4435	21	B	0	Western Europe	0.28	0.0	1	0.102	0.55
+4436	22	B	0	Western Europe	0.29	0.0	1	0.09300000000000001	0.5
+4500	21	B	0	Western Europe	0.275	0.0	1	0.125	0.4
+4501	22	B	0	Western Europe	0.275	0.0	1	0.125	0.4
+4637	21	B	0	Asia	0.34	0.0	1	0.0045000000000000005	0.35
+4659	21	C	1	Asia	0.38	0.0	1	0.0045000000000000005	0.4
+4850	21	B	0	Asia	0.325	0.2	1	0.025	0.25
+4864	21	C	1	Asia	0.325	0.25	0	0.105	0.4
+4876	21	C	1	Asia	0.325	0.25	1	0.02	0.4
+4976	21	C	1	Western Europe	0.29	0.25	0	0.32	0.6
+5197	21	B	0	Western Europe	0.4	0.0	0	0.05	0.4
+5198	22	B	0	Western Europe	0.4	0.0	0	0.05	0.4
+5248	21	B	0	Western Europe	0.34	0.0	1	0.078	0.5
+5249	22	B	0	Western Europe	0.34	0.0	1	0.078	0.43
+5328	21	C	1	Asia	0.315	0.0	1	0.06	0.6
+5329	22	C	1	Asia	0.315	0.0	1	0.06	0.45
+5341	21	C	1	Asia	0.315	0.0	1	0.06	0.6
+5342	22	C	1	Asia	0.315	0.0	1	0.06	0.45
+5351	21	B	0	Emerging Europe	0.3	0.2	1	0.35	0.48
+5352	22	B	0	Emerging Europe	0.3	0.2	1	0.35	0.48
+5370	21	B	0	Asia	0.355	0.0	1	0.025	0.25
+5389	21	C	1	Asia	0.37	0.0	1	0.006	0.35
+5451	21	C	1	Asia	0.075	0.0	1	0.022400000000000003	0.82
+5452	22	C	1	Asia	0.1025	0.0	1	0.0232	0.75
+5464	21	C	1	Asia	0.075	0.0	1	0.022400000000000003	0.82
+5465	22	C	1	Asia	0.1025	0.0	1	0.0232	0.75
+5471	21	C	1	Asia	0.312	0.2	1	0.022400000000000003	0.82
+5472	22	C	1	Asia	0.25	0.2	1	0.0232	0.75
+5703	21	C	1	Africa	0.375	0.2	0	0.35	0.45
+5704	22	C	1	Africa	0.375	0.2	0	0.35	0.44
+5751	21	B	0	Western Europe	0.47	0.0	1	0.1225	0.43
+5752	22	B	0	Western Europe	0.5	0.0	1	0.0925	0.4
+5791	21	B	0	Emerging Europe	0.29	0.27	1	0.273	0.55
+5792	22	B	0	Emerging Europe	0.295	0.285	1	0.273	0.45
+5813	21	B	0	Asia	0.38	0.0	1	0.03	0.5
+5814	22	B	0	Asia	0.38	0.0	1	0.03	0.4
+5815	22	B	0	Asia	0.38	0.0	1	0.01	0.4
+5826	21	C	1	Asia	0.33	0.0	1	0.06	0.57
+5827	22	C	1	Asia	0.33	0.0	1	0.065	0.55
+5831	21	C	1	Asia	0.33	0.0	1	0.06	0.57
+5832	22	C	1	Asia	0.33	0.0	1	0.065	0.525
+5865	21	C	1	Asia	0.325	0.0	0	0.5	0.4
+5866	22	C	1	Asia	0.325	0.0	0	0.45	0.4
+5969	21	C	1	Asia	0.24	0.0	1	0.95	0.5
+5979	21	B	0	Latin America	0.5	0.35	1	0.06	0.25
+5989	21	B	0	Latin America	0.5	0.35	1	0.06	0.25
+6017	21	B	0	Latin America	0.43	0.2	0	0.03	0.35
+6082	21	C	1	Asia	0.05	0.0	1	0.85	0.5
+6148	21	B	0	Western Europe	0.335	0.0	1	0.3	0.45
+6149	22	B	0	Western Europe	0.335	0.0	1	0.3	0.45
+6161	21	B	0	Emerging Europe	0.3	0.0	1	0.28	0.3
+6162	22	B	0	Emerging Europe	0.31	0.0	1	0.28	0.3
+6290	21	B	0	Latin America	0.41	0.15	1	0.09	0.3
+6340	21	B	0	Latin America	0.45	0.43	1	0.15	0.2
+6408	21	B	0	Emerging Europe	0.24	0.0	1	0.3	0.65
+6409	22	B	0	Emerging Europe	0.2	0.0	1	0.3	0.655
+6444	21	B	0	Latin America	0.44	0.44	0	0.05	0.35
+6468	21	B	0	Emerging Europe	0.34	0.3	1	0.09	0.55
+6469	22	B	0	Emerging Europe	0.34	0.3	1	0.09	0.5
+6499	21	C	1	Emerging Europe	0.18	0.0	1	0.114	0.6
+6500	22	C	1	Emerging Europe	0.3	0.0	1	0.1	0.4
+6526	21	B	0	Western Europe	0.26	0.25	1	0.24	0.5
+6527	22	B	0	Western Europe	0.28	0.27	1	0.23	0.3
+6533	21	B	0	Asia	0.25	0.0	0	0.12380000000000001	0.4
+6534	22	B	0	Asia	0.25	0.0	0	0.165	0.4
+6539	21	C	1	Asia	0.25	0.0	0	0.7125	0.5
+6545	21	B	0	Asia	0.335	0.205	0	0.11	0.45
+6546	22	B	0	Asia	0.335	0.205	0	0.18	0.4
+6552	21	B	0	North America	0.45	0.4	0	0.03	0.25
+6553	22	B	0	North America	0.45	0.4	0	0.03	0.3
+6578	21	B	0	Asia	0.385	0.0	1	0.08	0.5
+6579	22	B	0	Asia	0.395	0.0	1	0.06	0.4
+6590	21	B	0	Asia	0.25	0.0	1	0.08	0.5
+6604	21	B	0	Emerging Europe	0.35	0.35	0	0.38	0.5
+6605	22	B	0	Emerging Europe	0.35	0.35	0	0.38	0.43
+6617	21	B	0	Emerging Europe	0.3	0.25	1	0.27	0.55
+6618	22	B	0	Emerging Europe	0.3	0.25	1	0.27	0.5
+6635	21	C	1	Asia	0.25	0.0	0	0.13	0.6
+6636	22	C	1	Asia	0.2875	0.0	0	0.13	0.5
+6641	21	C	1	Asia	0.25	0.0	0	0.195	0.6
+6642	22	C	1	Asia	0.2875	0.0	0	0.195	0.5
+6665	21	B	0	Western Europe	0.345	0.2	0	0.15	0.5
+6671	21	B	0	Western Europe	0.38	0.0	1	0.1125	0.5
+6672	22	B	0	Western Europe	0.375	0.0	1	0.1125	0.5
+6678	21	C	1	Emerging Europe	0.32	0.2	1	0.0385	0.5
+6679	22	C	1	Emerging Europe	0.35	0.0	1	0.035	0.4
+6688	21	B	0	Africa	0.3	0.3	1	0.02	0.45
+6692	21	B	0	Africa	0.3	0.3	1	0.02	0.45
+6703	21	B	0	North America	0.495	0.475	1	0.03	0.25
+6704	22	B	0	North America	0.495	0.475	1	0.03	0.25
+6712	21	B	0	Emerging Europe	0.33	0.2	1	0.12	0.5
+6713	22	B	0	Emerging Europe	0.33	0.2	1	0.12	0.5
+6725	21	C	1	Western Europe	0.36	0.2	1	0.0525	0.55
+6728	21	B	0	Asia	0.35	0.0	0	0.07424	0.35
+6733	21	B	0	Western Europe	0.165	0.0	1	0.35	0.45
+6734	22	B	0	Western Europe	0.165	0.0	1	0.35	0.45
+6736	21	B	0	Emerging Europe	0.36	0.38	1	0.0858	0.5
+6737	22	B	0	Emerging Europe	0.36	0.38	1	0.0858	0.425
+6745	21	C	1	Emerging Europe	0.32	0.25	1	0.1593	0.6
+6746	22	C	1	Emerging Europe	0.32	0.25	1	0.1593	0.6
+6758	21	B	0	Western Europe	0.275	0.0	1	0.07	0.5
+6763	21	B	0	Pacific Region	0.32	0.2	1	0.075	0.5
+6764	22	B	0	Pacific Region	0.3	0.2	1	0.075	0.5
+6766	21	B	0	Latin America	0.425	0.0	0	0.03	0.25
+6772	21	B	0	Latin America	0.41	0.0	1	0.14	0.2
+6779	21	B	0	Asia	0.36	0.2	1	0.025	0.5
+6780	22	B	0	Asia	0.36	0.2	1	0.015	0.5
+6781	21	B	0	Asia	0.36	0.0	1	0.0275	0.5
+6782	21	B	0	Emerging Europe	0.32	0.0	1	0.05	0.4
+6789	21	B	0	Emerging Europe	0.33	0.28	1	0.0765	0.4
+6795	21	B	0	Pacific Region	0.32	0.25	1	0.5	0.2
+6796	22	C	1	Western Europe	0.36	0.2	1	0.0455	0.5
+6797	22	C	1	Western Europe	0.335	0.0	1	0.0455	0.5
+6800	22	B	0	Western Europe	0.275	0.0	1	0.07	0.5
+6803	22	B	0	Western Europe	0.25	0.0	1	0.135	0.5
